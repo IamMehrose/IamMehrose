@@ -39,7 +39,7 @@
 <h2>Musicoholic:</h2>
 <p>
 
-[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/hrd0mzp0iuwsfqonn3w4j18d5)
+[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/31rlv2k5s6uw65e7xprclxd5ox2e)
 
 </p>
 <table><tr><td valign="top" width="50%">
