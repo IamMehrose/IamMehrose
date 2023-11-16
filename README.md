@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Web Development, App Design and Public Speaking**
+- 💬 Ask me about **Web Development, App Design, and Public Speaking**
 
 - 📫 Reach out to me at **iammehrose@gmail.com**
 
-- * My primary coding and problem solving language: C++
+- * My primary coding and problem-solving language: C++
 
 - I give back to the community I have gained so much from. 
 
