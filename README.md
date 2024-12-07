@@ -98,4 +98,6 @@
 [Medium]: https://iammehrose.medium.com/
 [Instagram]: https://www.instagram.com/iammehrose
 
+<h3 align="center"><a href="https://geeksformeds.com/">GeeksforMeds</a> | <a href="https://www.hackverses.com/">HackVerses</a> | <a href="https://www.ncertguess.com/">NCERTGUESS</a></h3>
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
